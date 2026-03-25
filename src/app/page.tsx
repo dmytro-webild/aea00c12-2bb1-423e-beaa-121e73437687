@@ -166,7 +166,8 @@ export default function LandingPage() {
           <ContactCenter
             useInvertedBackground={true}
             background={{
-              variant: "plain"}}
+              variant: "plain"
+            }}
             tag="Get in Touch"
             title="Request Plumbing Service Today"
             description="Ready for reliable plumbing? Contact us now for emergency service, a free estimate, or to discuss your renovation project."
