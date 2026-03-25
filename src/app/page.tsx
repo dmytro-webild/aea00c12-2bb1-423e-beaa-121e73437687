@@ -142,7 +142,7 @@ export default function LandingPage() {
         <div id="testimonials" data-section="testimonials">
           <TestimonialCardFifteen
             useInvertedBackground={true}
-            testimonial="\"Armstrong Plumbing Inc. saved the day! A pipe burst late at night, and they were at my house within an hour. Professional, efficient, and incredibly kind. Highly recommend their emergency service!\""
+            testimonial={`Armstrong Plumbing Inc. saved the day! A pipe burst late at night, and they were at my house within an hour. Professional, efficient, and incredibly kind. Highly recommend their emergency service!`}
             rating={5}
             author="Sarah M."
             avatars={[
